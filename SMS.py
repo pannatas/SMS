@@ -5,7 +5,7 @@ banner = """\033[36m
   BY:SCK SpamerSMS
 """
 print(banner)
-_phone = input('\033[36m(66ตามด้วยเบอร์)>>\033[0m \033[35m ')
+_phone = input('\033[36m(660949315336)>>\033[0m \033[35m ')
 
 if _phone[0] == '+':
 	_phone = _phone[1:]
